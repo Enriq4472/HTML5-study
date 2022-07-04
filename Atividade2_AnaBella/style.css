@@ -9,6 +9,7 @@ body
 #main
 {
     width: 900px;
+    text-align: center;
 }
 
 #menu
@@ -41,4 +42,15 @@ h2
 {
     color: #828271;
     font-size:1.2em;
+    text-align: left;
+}
+
+p
+{
+    text-align: left;
+}
+
+.image
+{
+    border: 6px solid #c5c5b2;
 }
